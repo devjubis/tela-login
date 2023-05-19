@@ -2,7 +2,7 @@
 
 ## Feito em React.JS, Hooks, Routes, JSON, Node.JS, JavaScript, NoSQL (Firebase), CSS, HTML, Responsivo, Bibliotecas
 
-Na tela principal do login:
+<h2>Tela principal do login:<h2>
 
 ### `home` ⬇️
 
@@ -12,7 +12,7 @@ Na tela principal do login:
 
 ![home-mobile](https://github.com/devjubis/tela-login/assets/110790833/4942b2ba-e472-4b70-951c-61513752323e)
 
-Tela de Cadastro de Usuário:
+<h2>Tela de Cadastro de Usuário:<h2>
 
 ### `cadastro` ⬇️
 
@@ -22,7 +22,7 @@ Tela de Cadastro de Usuário:
 
 ![cadastro-mobile](https://github.com/devjubis/tela-login/assets/110790833/8ea55eed-00e3-489b-b44d-ef274d86cb82)
 
-Tela de Tarefas, contendo botões de Registrar Tarefas, Atualizar Tarefas, Editar e Concluir:
+<h2>Tela de Tarefas, contendo botões de Registrar Tarefas, Atualizar Tarefas, Editar e Concluir:<h2>
 
 ### `tarefas` ⬇️
 
