@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Projeto Tela de Login + Banco de Dados 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Feito em React.JS, Hooks, Routes, JSON, Node.JS, JavaScript, NoSQL (Firebase), CSS, HTML, Responsivo, Bibliotecas
 
-## Available Scripts
+Na tela principal do login:
 
-In the project directory, you can run:
+### `home` ⬇️
 
-### `npm start`
+![home-not](https://github.com/devjubis/tela-login/assets/110790833/64d7bac0-632b-45c7-a745-82fdef03bf43)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `home responsivo` ⬇️
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![home-mobile](https://github.com/devjubis/tela-login/assets/110790833/4942b2ba-e472-4b70-951c-61513752323e)
 
-### `npm test`
+Tela de Cadastro de Usuário:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `cadastro` ⬇️
 
-### `npm run build`
+![cadastro-not](https://github.com/devjubis/tela-login/assets/110790833/2320cda3-6f2b-4e0c-a42a-0069d110d373)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `cadastro responsivo` ⬇️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![cadastro-mobile](https://github.com/devjubis/tela-login/assets/110790833/8ea55eed-00e3-489b-b44d-ef274d86cb82)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Tela de Tarefas, contendo botões de Registrar Tarefas, Atualizar Tarefas, Editar e Concluir:
 
-### `npm run eject`
+### `tarefas` ⬇️
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![tarefas-not](https://github.com/devjubis/tela-login/assets/110790833/1ab8ff4c-9e54-4819-8f7d-dbe41910776b)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `tarefas responsivo` ⬇️
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![tarefas-mobile](https://github.com/devjubis/tela-login/assets/110790833/5c24a2ed-191a-4265-b53c-75e232a6e283)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
